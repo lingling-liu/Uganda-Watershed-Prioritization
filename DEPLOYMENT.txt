@@ -1,1 +1,0 @@
-Upload this archive contents to your GitHub Pages publishing directory. Keep index.html, assets/ and data/ together, including .nojekyll. Full source and instructions are in Uganda_Watershed_Project.zip. No API keys or build step are required for these prebuilt files.
